@@ -1,0 +1,32 @@
+_repo: '-----------_24156'
+_version: 0.1.0
+alternative_title: Zhong Guo Shi Da Jin Shu Zhi Guo Se Tian Xiang
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wu, Jingsuo, active 16th century
+    aliases:
+    - Wu, Ching-so
+    - 吴敬所
+    - Yangchunzi
+    - 吳敬所
+    gutenberg_agent_id: '31376'
+    url: http://www.gutenberg.org/2009/agents/31376
+description: ''
+gutenberg_bookshelf: Erotic Fiction
+gutenberg_issued: '2008-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24156'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction -- Ming dynasty, 1368-1644'
+- !lcsh 'Erotic literature, Chinese'
+- !lcc 'PL'
+title: 中國十大禁書之國色天香
+url: http://www.gutenberg.org/ebooks/24156
